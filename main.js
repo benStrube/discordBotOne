@@ -1,4 +1,4 @@
-import Login from '/login.js';
+import Login from "/login.js";
 
 const Discord = require("discord.js");
 const { default: login } = require("./login");
